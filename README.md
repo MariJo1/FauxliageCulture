@@ -3,7 +3,7 @@
 <param ve-config
        title="Girl with a Pearl Earring"
        author="JSTOR Labs team"
-       banner="https://commons.wikimedia.org/wiki/File:Vein_skeleton_of_a_leaf_(de-ghosted).jpg#/media/File:Vein_skeleton_of_a_leaf_(de-ghosted).jpg" 
+       banner="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Vein_skeleton_of_a_leaf_%28de-ghosted%29.jpg/1280px-Vein_skeleton_of_a_leaf_%28de-ghosted%29.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
