@@ -3,8 +3,8 @@
 <param ve-config 
        title="Narrating Alter-pesticide Logics after Bhopal, 1984"
        author="Maria Job"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://en.m.wikipedia.org/wiki/File:Dow_Chemical_banner,_Bhopal,_India.jpg" 
-       layout="vertical">"
+       banner="https://iiif.juncture-digital.org/banner/?url=[https://en.m.wikipedia.org/wiki/File:Dow_Chemical_banner,_Bhopal,_India.jpg](https://upload.wikimedia.org/wikipedia/commons/2/29/Dow_Chemical_banner%2C_Bhopal%2C_India.jpg)" 
+       layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
