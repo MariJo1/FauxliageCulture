@@ -13,11 +13,8 @@
 ### Key Texts in the Cultural History of Pesticide: "The Desolate Year", published by the Monsanto Company in 1962
 "A brochure published by the agricultural biotechnology company Monsanto in 1962 in response to Rachel Carson's book Silent Spring, which was a foundational work in early environmentalism criticizing the uncontrolled usage of pesticides and DDT in particular. The brochure tells the story of what they believe America would look like were the government to ban the usage of pesticides." (From The Internet Archive)
 (This document originally came from the following link: https://iseethics.files.wordpress.com/2011/12/monsanto-magazine-1962-the-desolate-yeart.pdf) 
-<param ve-image
-       label="Mortein 1949 Ad"
-       attribution="The Internet Archive"
-       license="public domain"
-       url="https://archive.org/details/monsanto-magazine-1962-the-desolate-year/mode/2up?view=theater">
+<param ve-iframe src="https://archive.org/details/monsanto-magazine-1962-the-desolate-year/mode/2up?view=theater">
+
 
 ### The Origins of Peanut Cultivation and Consumption
 The cultivated peanut is one of many species of the *Arachis* genus which is thought to have originated east of the Andes mountain range in the area corresponding to modern-day northwestern Argentina, southeastern Bolivia, northern Paraguay, and western Brazil.[^2] The exact period of peanut cultivation by <span eid="Q3122657">Andean civilizations</span> is unclear but domesticated peanut remains have been dated back more than 7000 years.[^3] The high protein content of the peanut made it an important calorie-dense feature of the Andean diet. In his 1609 history of the <span eid="Q3404008">Inca civilization</span>, mestizo chronicler Inca Garcilaso de la Vega records peanuts, or <span data-click-image-zoomto="551,753,677,585">*ynchic*</span>, being eaten toasted and used to make a kind of nougat in combination with honey, but notes that they cause a headache when eaten raw.[^4] He further highlights that peanut oil can be extracted and used to cure many illnesses. 
