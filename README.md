@@ -14,7 +14,7 @@
 "A brochure published by the agricultural biotechnology company Monsanto in 1962 in response to Rachel Carson's book Silent Spring, which was a foundational work in early environmentalism criticizing the uncontrolled usage of pesticides and DDT in particular. The brochure tells the story of what they believe America would look like were the government to ban the usage of pesticides." (From The Internet Archive)
 (This document originally came from the following link: https://iseethics.files.wordpress.com/2011/12/monsanto-magazine-1962-the-desolate-yeart.pdf) 
 <param ve-image
-       label="Monsanto The Desolate Year, 1962"
+       label="Mortein 1949 Ad"
        attribution="The Internet Archive"
        license="public domain"
        url="https://github.com/MariJo1/FauxliageCulture/blob/20f7f77485d55c753dc9617be32ea4899c831cb4/1949%20advertisement%20for%20Mortein%20Plus%20fly%20spray.jpeg">
