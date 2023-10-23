@@ -3,7 +3,7 @@
 <param ve-config 
        title="Narrating Alter-pesticide Logics after Bhopal, 1984"
        author="Maria Job"
-       banner="https://archive.org/details/1949-advertisement-for-mortein-plus-fly-spray"
+       banner="[https://archive.org/details/1949-advertisement-for-mortein-plus-fly-spray](https://github.com/MariJo1/FauxliageCulture/blob/main/1949%20advertisement%20for%20Mortein%20Plus%20fly%20spray.jpeg)"
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
