@@ -1,7 +1,7 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Narrating an Alter-pesticide Logics after Bhopal, 1984"
+       title="Narrating Alter-pesticide Logics after Bhopal, 1984"
        author="Maria Job"
        banner="https://archive.org/details/1949-advertisement-for-mortein-plus-fly-spray"
        layout="vertical">
