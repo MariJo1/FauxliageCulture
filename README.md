@@ -17,7 +17,7 @@
        label="Monsanto The Desolate Year, 1962"
        attribution="The Internet Archive"
        license="public domain"
-       url="https://github.com/MariJo1/FauxliageCulture/blob/fa15cef81329a2cc1edc7ea3b7f9128f82cd5cac/monsanto-magazine-1962-the-desolate-year_0000.jpeg">
+       url="https://github.com/MariJo1/FauxliageCulture/blob/20f7f77485d55c753dc9617be32ea4899c831cb4/1949%20advertisement%20for%20Mortein%20Plus%20fly%20spray.jpeg">
 
 ### The Origins of Peanut Cultivation and Consumption
 The cultivated peanut is one of many species of the *Arachis* genus which is thought to have originated east of the Andes mountain range in the area corresponding to modern-day northwestern Argentina, southeastern Bolivia, northern Paraguay, and western Brazil.[^2] The exact period of peanut cultivation by <span eid="Q3122657">Andean civilizations</span> is unclear but domesticated peanut remains have been dated back more than 7000 years.[^3] The high protein content of the peanut made it an important calorie-dense feature of the Andean diet. In his 1609 history of the <span eid="Q3404008">Inca civilization</span>, mestizo chronicler Inca Garcilaso de la Vega records peanuts, or <span data-click-image-zoomto="551,753,677,585">*ynchic*</span>, being eaten toasted and used to make a kind of nougat in combination with honey, but notes that they cause a headache when eaten raw.[^4] He further highlights that peanut oil can be extracted and used to cure many illnesses. 
