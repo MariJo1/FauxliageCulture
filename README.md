@@ -11,34 +11,17 @@
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
 
 ### Cultural History of Pesticide: "The Desolate Year", published by the Monsanto Company in 1962
-"A brochure published by the agricultural biotechnology company Monsanto in 1962 in response to Rachel Carson's book Silent Spring, which was a foundational work in early environmentalism criticizing the uncontrolled usage of pesticides and DDT in particular. The brochure tells the story of what they believe America would look like were the government to ban the usage of pesticides." (From The Internet Archive) 
-
-Rachel Carson's "Silent Spring" remains an influential work in the history of environmental literature and is often required reading for those interested in environmental science and conservation. It's a testament to the power of scientific literature to bring attention to critical environmental issues and drive change.
+"A brochure published by the agricultural biotechnology company Monsanto in 1962 in response to Rachel Carson's book Silent Spring, which was a foundational work in early environmentalism criticizing the uncontrolled usage of pesticides and DDT in particular. The brochure tells the story of what they believe America would look like were the government to ban the usage of pesticides." (From The Internet Archive) Rachel Carson's "Silent Spring" remains an influential work in the history of environmental literature and is often required reading for those interested in environmental science and conservation. It's a testament to the power of scientific literature to bring attention to critical environmental issues and drive change.
 <param ve-iframe src="https://archive.org/details/monsanto-magazine-1962-the-desolate-year/mode/2up?view=theater">
 
 ### Insect Repellent Ads, Mortein, 1949
 How did 20th century advertisements for insect repellents consitute the pest? Mortein is a well-known brand of household insecticides and pest control products. The brand is owned by Reckitt Benckiser, a British multinational consumer goods company. Mortein products are designed to help people combat various pests, primarily insects, including mosquitoes, flies, cockroaches, ants, and other common household pests. Here are some key points about Mortein:
-
 History: Mortein was originally an Australian brand, founded by J. Hagemann in 1878. The brand's name is derived from a combination of the French word "mort" (meaning "dead") and "Einstein," referencing the scientist Albert Einstein. In 1936, Mortein introduced its iconic slogan, "When you're dead, you're dead."
-
 Global Presence: Mortein products are available in various countries around the world. They are especially popular in regions where insect-borne diseases are a concern.
-
 Environmental Concerns: Like many companies in the pest control industry, Mortein has faced scrutiny and challenges related to the environmental impact of its products. There have been concerns about the use of certain chemicals in insecticides and their effects on the environment. In response to these concerns, Mortein, like other companies, has been working on developing more environmentally friendly and sustainable pest control solutions.
-
 Image: Mortein is known for its distinctive packaging and branding, often featuring the image of a dead insect, reinforcing its promise of effective pest control.
 <param ve-iframe src="https://ia802907.us.archive.org/5/items/1949-advertisement-for-mortein-plus-fly-spray/1949%20advertisement%20for%20Mortein%20Plus%20fly%20spray.jpg">
- 
-As "El Inca" suggests, peanuts were more than just an important food source, they were also a prestigious item with symbolic and religious importance and a connection to societal elites. The <span eid="Q208188">Moche culture</span> in northern Peru immortalised peanuts in metalwork and on ritual and funerary ceramics, and associated them with death, agricultural production and fertility, in part because of the peanut’s subterranean growth process.[^5] They were also used in competitive feasts and as a ceremonial offering. The high status of peanuts is perhaps best immortalised in an elaborate gold and silver necklace that was discovered in the Royal Tombs of Sipan in 1980 where the warrior-priest leaders of the Moche were buried.
-<param ve-image
-       label="A gold and silver peanut necklace found in the Royal Tombs of Sipan, c.300 A.D."
-       attribution="Artstor Slide Gallery, courtesy of the Fowler Museum at University of California, Los Angeles"
-       fit="contain"
-       url="Peanut Necklace.jpg">
-       
-Peanuts were also held in high regard in <span eid="Q13703">Mesoamerica</span>, having gradually spread further north via trade networks. In the <span eid="Q12542">Aztec</span> capital of <span eid="Q13695">Tenochtitlan</span>, the location of present day Mexico City, the peanut was known as *tlalcacahuatl* from the words *tlalli* (earth) and *cacahuatl* (cocoa), giving rise to one of the Spanish words for peanut, *cacahuate/cacahuete*, and suggesting that the Aztec may have been the first humans to combine these two now-ubiquitous flavors.[^6] Although they were less common here than in South America, peanuts were similarly noted for their medicinal properties. They are included in Book Eleven, *Earthly Things*, of the twelve-volume *General History of the Things of New Spain*, also known as the <span eid="Q1106019">Florentine Codex</span>, which was compiled by the Spanish Friar <span eid="Q379972">Bernardino de Sahagún</span> in collaboration with his indigenous students during the sixteenth century and gave a comprehensive account of Aztec culture, society and natural history in order to facilitate Spanish evagelization work. Here, *tlalacacahuatl* is described as a “root” to be given ground up in water to those with a fever, allowing them to expel the ailment in their urine. [^7]
-
-
-    
+     
 ### Out of the Americas
 Peanuts were first encountered by the Spanish on the Caribbean island of <span eid="Q25277">Hispaniola</span> in the late fifteenth century, where they were known by the name *maní* in the indigeous <span eid="Q5232952">Taíno</span> language. *Maní* is still the predominant name for peanuts in Latin America today, having been adopted into Spanish. Diverging from the appreciation of peanuts by many Pre-Columbian societies, Spanish chronicler <span eid="Q919967">Gonzalo Fernández de Oviedo</span> linked their consumption on the island to people of low social standing who were not true Christians.[^8] The Spanish located them here as well as in the continental Americas, which led to confusion about the plant’s origins until peanut remains were located in a Pre-colombian tomb in Peru during the nineteenth century.[^9]
 <param ve-map basemap="Esri_WorldPhysical" title="Spread of peanuts in the lands claimed by the Spanish (blue) and Portuguese (red) Empires around 1600. This largely happened via the main trade routes of each empire, also shown here">  <param ve-map-layer geojson active url="traderoutesmap.json">
