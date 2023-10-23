@@ -17,8 +17,7 @@
 ### Insect Repellent Ads, Mortein, 1949
 How did 20th century advertisements for insect repellents consitute the pest? Mortein is a well-known brand of household insecticides and pest control products. The brand is owned by Reckitt Benckiser, a British multinational consumer goods company. Mortein products are designed to help people combat various pests, primarily insects, including mosquitoes, flies, cockroaches, ants, and other common household pests.
 History: Mortein was originally an Australian brand, founded by J. Hagemann in 1878. The brand's name is derived from a combination of the French word "mort" (meaning "dead") and "Einstein," referencing the scientist Albert Einstein. In 1936, Mortein introduced its iconic slogan, "When you're dead, you're dead."
-<param ve-iframe src="https://ia802907.us.archive.org/5/items/1949-advertisement-for-mortein-plus-fly-spray/1949%20advertisement%20for%20Mortein%20Plus%20fly%20spray.jpg"
-fit="contain">
+<param ve-iframe src="https://ia802907.us.archive.org/5/items/1949-advertisement-for-mortein-plus-fly-spray/1949%20advertisement%20for%20Mortein%20Plus%20fly%20spray.jpg">
 
 Environmental Concerns: Like many companies in the pest control industry, Mortein has faced scrutiny and challenges related to the environmental impact of its products. There have been concerns about the use of certain chemicals in insecticides and their effects on the environment. In response to these concerns, Mortein, like other companies, has been working on developing more environmentally friendly and sustainable pest control solutions.
 Image: Mortein is known for its distinctive packaging and branding, often featuring the image of a dead insect, reinforcing its promise of effective pest control.
