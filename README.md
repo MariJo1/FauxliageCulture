@@ -16,12 +16,13 @@
 
 ### Insect Repellent Ads, Mortein, 1949
 How did 20th century advertisements for insect repellents consitute the pest? Mortein is a well-known brand of household insecticides and pest control products. The brand is owned by Reckitt Benckiser, a British multinational consumer goods company. Mortein products are designed to help people combat various pests, primarily insects, including mosquitoes, flies, cockroaches, ants, and other common household pests.
-<param ve-iframe src="https://ia802907.us.archive.org/5/items/1949-advertisement-for-mortein-plus-fly-spray/1949%20advertisement%20for%20Mortein%20Plus%20fly%20spray.jpg">
 History: Mortein was originally an Australian brand, founded by J. Hagemann in 1878. The brand's name is derived from a combination of the French word "mort" (meaning "dead") and "Einstein," referencing the scientist Albert Einstein. In 1936, Mortein introduced its iconic slogan, "When you're dead, you're dead."
-<param ve-iframe src="https://ia801900.us.archive.org/9/items/1949-advertisement-for-mortein-plus-insecticide/1949%20advertisement%20for%20Mortein%20Plus%20insecticide.jpg">
+<param ve-iframe src="https://ia802907.us.archive.org/5/items/1949-advertisement-for-mortein-plus-fly-spray/1949%20advertisement%20for%20Mortein%20Plus%20fly%20spray.jpg">    
+
 Environmental Concerns: Like many companies in the pest control industry, Mortein has faced scrutiny and challenges related to the environmental impact of its products. There have been concerns about the use of certain chemicals in insecticides and their effects on the environment. In response to these concerns, Mortein, like other companies, has been working on developing more environmentally friendly and sustainable pest control solutions.
 Image: Mortein is known for its distinctive packaging and branding, often featuring the image of a dead insect, reinforcing its promise of effective pest control.
-     
+<param ve-iframe src="https://ia801900.us.archive.org/9/items/1949-advertisement-for-mortein-plus-insecticide/1949%20advertisement%20for%20Mortein%20Plus%20insecticide.jpg">
+
 ### Out of the Americas
 Peanuts were first encountered by the Spanish on the Caribbean island of <span eid="Q25277">Hispaniola</span> in the late fifteenth century, where they were known by the name *maní* in the indigeous <span eid="Q5232952">Taíno</span> language. *Maní* is still the predominant name for peanuts in Latin America today, having been adopted into Spanish. Diverging from the appreciation of peanuts by many Pre-Columbian societies, Spanish chronicler <span eid="Q919967">Gonzalo Fernández de Oviedo</span> linked their consumption on the island to people of low social standing who were not true Christians.[^8] The Spanish located them here as well as in the continental Americas, which led to confusion about the plant’s origins until peanut remains were located in a Pre-colombian tomb in Peru during the nineteenth century.[^9]
 <param ve-map basemap="Esri_WorldPhysical" title="Spread of peanuts in the lands claimed by the Spanish (blue) and Portuguese (red) Empires around 1600. This largely happened via the main trade routes of each empire, also shown here">  <param ve-map-layer geojson active url="traderoutesmap.json">
