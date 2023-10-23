@@ -3,7 +3,7 @@
 <param ve-config 
        title="Narrating Alter-pesticide Logics after Bhopal, 1984"
        author="Maria Job"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://github.com/MariJo1/FauxliageCulture/blob/1a01416821eebbabfd1786a06b214a1cd7550f21/Dow_Chemical_banner%2C_Bhopal%2C_India.jpeg"
+       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/2/29/Dow_Chemical_banner%2C_Bhopal%2C_India.jpg"
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
