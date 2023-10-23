@@ -83,35 +83,6 @@ Great Britain's post-<span eid="Q362">World War II</span> <span eid="Q2392428">T
        fit="contain"
        url="https://upload.wikimedia.org/wikipedia/commons/2/2f/Arachis_hypogaea_003.JPG">
 
-### Peanuts: Politics and Public Space
-A characteristic feature of peanuts is their presence in public spaces. Roasted or boiled, shelled or de-shelled, in street-carts or on the roadside, in cones of newspaper or paper bags, selling peanuts as street-food is a global practice. This public visibility has been documented in varied media representations of the peanut interacting with human and non-human actors. For example, the significance of the peanut vendor as the mediator in peanut consumption is brilliantly conveyed by the 1927 song <span eid="Q3050049">*El manisero* [*The Peanut Vendor*]</span> by the Cuban composer and song-writer <span eid="Q661928">Moisés Simons</span>.[^21] The composition is sung from the perspective of the seller, and was an example of the African and Afro-Cuban influenced <span eid="Q4428744">*son*</span> and <span eid="Q5681688">*pregón*</span> genres that went on to be recorded over 160 times. In 2005, *El manisero* was added to the [National Recording Registry](https://www.loc.gov/programs/national-recording-preservation-board/recording-registry/registry-by-induction-years/2005/) in recognition of its influence in the history of Latin American music. The lyrics describe the vendor trying to tempt a housewife to buy a cone of peanuts, and include his repeated sales cry of "*maní*, *maní*, *maní*", a typical feature of *pregones*.
-<param ve-video
-	id="essMVyS1Om0"
-	title="The Peanut Vendor - Don Azpiazu (Antonio Machin, vocal).">
-
-The political <span eid="Q89503149">chromolithograph</span> published in 1894 by <span eid="Q1584058">Puck magazine</span> titled *"Puck's presidential impossibility. The political peanut vender"*, uses the image of the peanut vendor in its satirical representation of the U.S politician and former governor of New York, <span eid="Q888410">David B. Hill</span>.[^22] The <span data-click-image-zoomto="255,522,315,291">peanut</span> in the image indicates a [“peanut politics”](https://politicaldictionary.com/words/peanut-politician/) or petty politics motivated by self-interest. Besides selling peanuts on streets and road-sides, vendors were often found at other public spaces like circuses, zoos, theatres, and fairs. The ubiquitous presence of peanuts as entertainment food in circus spaces led to spectators feeding peanuts to the animals, including elephants, as exemplified by this 1897 theatrical poster.[^23] Notably, feeding peanuts to elephants is not recommended as the animals require less protein and more fiber in their diet. Interestingly, the text *Marketing Peanuts* (1926) published by the U.S. Department of Agriculture notes the prohibition of the sale of shelled peanuts in public spaces in some cities in the U.S to curb the littering of peanut shells.[^24] The hull and broken peas left over after the industrial de-shelling process were also put to use in preparation of livestock feed especially during years of low quality crop or poor prices.
-<param ve-image
-       label="Puck's presidential impossibility. The political peanut vender / J.S. Pughe, 1894"
-       description="Political Satire shows U.S politician as peanut vendor selling roasted peanuts"
-       attribution="Pughe, J. S. (John S.), 1870-1909, artist. Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
-       license="No known restrictions on publication."
-       fit="contain"
-       url="https://tile.loc.gov/storage-services/service/pnp/ppmsca/29000/29050v.jpg">
-<param ve-image
-       label="Charles Frohman's production, The circus girl, 1897." 
-       description="Theatrical poster showing person feeding elephants peanuts at the circus."
-       attribution="Frohman, Charles, 1860-1915. Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
-       license="No known restrictions on publication."
-       fit="contain"
-       url="https://tile.loc.gov/storage-services/master/pnp/var/0800/0837/0837r.jpg">
-<param ve-image
-       label="Marketing peanuts, 1926. (p.47)"
-       description="Image and text describing peanut vendors"
-       attribution="Clay, Harold J, Williams, Paul M. Source: Department bulletin (United States. Dept. of Agriculture); no. 1401."
-       license="Public Domain"
-       fit="contain"
-       url="https://www.biodiversitylibrary.org/pageimage/48681087#page/57/mode/1up">
-              
 ### Multispecies Consumption: Insects, Fungi, Bacteria
 Humans, animals, and birds are not the only consumers of the peanut plant. In texts on peanut cultivation for human consumption like *The Peanut, the unpredictable legume; a symposium* (1951) published by the National Fertilizer Association in the U.S, we find the assertive presence of insects, fungi, and bacteria that feed on the peanut foliage, subterranean parts, and delicious pods.[^25] Insects like the Indian Meal Moth, <span eid="Q2893450">Almond Moth</span>, Saw-toothed Grain Beetle, and <span eid="Q102347715">Flour Beetles</span> are observed to consume peanuts after their harvest and when they are in storage. The consumption of the peanut plant by the insect is represented within the text as infestation by 'pests' which cause crop damage directly translating to economic ‘damage’. The insects in the network visualization are but a few of the many wondrous creatures that share humanity’s appetite for the peanut plant. While this network is by no means an exhaustive list of all the insects that feed on the peanut plant, it opens up thinking about the plant as providing nutrients to multiple life forms beyond the human.
 <param ve-d3plus-ring-network 
@@ -127,15 +98,7 @@ The text also notes other life forms that consume the peanut which include bacte
        fit="contain"
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/A_Peanut_Plant%2C_illustration_from_The_Encyclopedia_of_Food_by_Artemas_Ward_01.jpg/1280px-A_Peanut_Plant%2C_illustration_from_The_Encyclopedia_of_Food_by_Artemas_Ward_01.jpg">
        
-Despite the use of the word ["peanut"](https://www.merriam-webster.com/dictionary/peanut) to denote a small or meagre amount in the English language, we have seen over the course of this essay that the peanut has a rich global history which is intricately tied to histories of colonialism and imperialism. Perceptions of the peanut are distinctive based on their cultural and temporal contexts: from refering to the cheapest seats in the theater as the ["peanut gallery"](https://theconversation.com/the-complicated-origin-of-the-expression-peanut-gallery-148897), a term which was also used as a racist and classist slur in early nineteenth century U.S, to the <span eid="Q17019494">groundnut pyramids</span> that were a status symbol and tourist attraction in Kano, Nigeria in the early twentieth century. From luxury food to livestock feed, the social, cultural, and political life of this legume is extensive. The peanut plant heals and replenishes  soils and has therefore been cultivated as a global environmental intervention method to maintain soil health. It is highly nutritious and protein-packed and hence beneficial to the many life-forms that consume it-- including to humans in many different culinary preparations-- and yet is also a food that causes fatal <span eid="Q7157933">allergic</span> reactions, a medical phenomenon that continues to puzzle peanut fans and detractors alike.
-<param ve-image
-       label="Arachis hypogaea 006"
-       description="Arachis hypogaea, Fabaceae, Peanut, Groundnut, growing fruit stalk; Botanical Garden KIT, Karlsruhe, Germany"
-       attribution="H. Zell, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
-       license="CC BY-SA 3.0; https://creativecommons.org/licenses/by-sa/3.0/deed.en"
-       fit="contain"
-       url="https://upload.wikimedia.org/wikipedia/commons/b/b2/Arachis_hypogaea_006.JPG">
-       
+
 
 ### References
 
