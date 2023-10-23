@@ -13,14 +13,11 @@
 ### Key Texts in the Cultural History of Pesticide: "The Desolate Year", published by the Monsanto Company in 1962
 "A brochure published by the agricultural biotechnology company Monsanto in 1962 in response to Rachel Carson's book Silent Spring, which was a foundational work in early environmentalism criticizing the uncontrolled usage of pesticides and DDT in particular. The brochure tells the story of what they believe America would look like were the government to ban the usage of pesticides." (From The Internet Archive)
 (This document originally came from the following link: https://iseethics.files.wordpress.com/2011/12/monsanto-magazine-1962-the-desolate-yeart.pdf) 
-
-While the largest peanut producing nations nowadays include China, India, Nigeria, and the USA, this plant has its <span data-mouseover-map-flyto="-19.922,-64.061,6">origins in South America</span>, having been cultivated by Andean civilizations before spreading further north.[^1] The arrival of the peanut in Europe and its expansion across the globe altered global food production and supply forever, rendering it one of the most "successful" New World plants, along with the potato.
-<param ve-map basemap="Esri_WorldPhysical" title="The distribution of Arachis hypogaea arond the world, with its estimated origin area shown in red">  
-<param ve-map-layer geojson active url="peanutdistributionmap.json">
-<param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Texture_d%27arachide_au_B%C3%A9nin_01.jpg"
-	coords="-18.5,-64.061"
-	size="129, 170"
-	circle="true">
+<param ve-image
+       label="Monsanto "The Desolate Year", 1962"
+       attribution="The Internet Archive"
+       license="public domain"
+       url="https://github.com/MariJo1/FauxliageCulture/blob/6096d50efab50751a73777133732dc10a5b2c418/monsanto-magazine-1962-the-desolate-year_0000.jpeg">
 
 ### The Origins of Peanut Cultivation and Consumption
 The cultivated peanut is one of many species of the *Arachis* genus which is thought to have originated east of the Andes mountain range in the area corresponding to modern-day northwestern Argentina, southeastern Bolivia, northern Paraguay, and western Brazil.[^2] The exact period of peanut cultivation by <span eid="Q3122657">Andean civilizations</span> is unclear but domesticated peanut remains have been dated back more than 7000 years.[^3] The high protein content of the peanut made it an important calorie-dense feature of the Andean diet. In his 1609 history of the <span eid="Q3404008">Inca civilization</span>, mestizo chronicler Inca Garcilaso de la Vega records peanuts, or <span data-click-image-zoomto="551,753,677,585">*ynchic*</span>, being eaten toasted and used to make a kind of nougat in combination with honey, but notes that they cause a headache when eaten raw.[^4] He further highlights that peanut oil can be extracted and used to cure many illnesses. 
@@ -40,11 +37,7 @@ As "El Inca" suggests, peanuts were more than just an important food source, the
        
 Peanuts were also held in high regard in <span eid="Q13703">Mesoamerica</span>, having gradually spread further north via trade networks. In the <span eid="Q12542">Aztec</span> capital of <span eid="Q13695">Tenochtitlan</span>, the location of present day Mexico City, the peanut was known as *tlalcacahuatl* from the words *tlalli* (earth) and *cacahuatl* (cocoa), giving rise to one of the Spanish words for peanut, *cacahuate/cacahuete*, and suggesting that the Aztec may have been the first humans to combine these two now-ubiquitous flavors.[^6] Although they were less common here than in South America, peanuts were similarly noted for their medicinal properties. They are included in Book Eleven, *Earthly Things*, of the twelve-volume *General History of the Things of New Spain*, also known as the <span eid="Q1106019">Florentine Codex</span>, which was compiled by the Spanish Friar <span eid="Q379972">Bernardino de Sahagún</span> in collaboration with his indigenous students during the sixteenth century and gave a comprehensive account of Aztec culture, society and natural history in order to facilitate Spanish evagelization work. Here, *tlalacacahuatl* is described as a “root” to be given ground up in water to those with a fever, allowing them to expel the ailment in their urine. [^7]
 
-<param ve-image
-       label=" A peanut plant shown in Book XI of the 'Historia general de las cosas de Nueva España' (1577)"
-       attribution="World Digital Library"
-       license="public domain"
-       url="Peanut Florentine Codex.png">
+
     
 ### Out of the Americas
 Peanuts were first encountered by the Spanish on the Caribbean island of <span eid="Q25277">Hispaniola</span> in the late fifteenth century, where they were known by the name *maní* in the indigeous <span eid="Q5232952">Taíno</span> language. *Maní* is still the predominant name for peanuts in Latin America today, having been adopted into Spanish. Diverging from the appreciation of peanuts by many Pre-Columbian societies, Spanish chronicler <span eid="Q919967">Gonzalo Fernández de Oviedo</span> linked their consumption on the island to people of low social standing who were not true Christians.[^8] The Spanish located them here as well as in the continental Americas, which led to confusion about the plant’s origins until peanut remains were located in a Pre-colombian tomb in Peru during the nineteenth century.[^9]
