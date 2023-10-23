@@ -12,17 +12,21 @@
 
 ### Cultural History of Pesticide: "The Desolate Year", published by the Monsanto Company in 1962
 "A brochure published by the agricultural biotechnology company Monsanto in 1962 in response to Rachel Carson's book Silent Spring, which was a foundational work in early environmentalism criticizing the uncontrolled usage of pesticides and DDT in particular. The brochure tells the story of what they believe America would look like were the government to ban the usage of pesticides." (From The Internet Archive) 
+
+Rachel Carson's "Silent Spring" remains an influential work in the history of environmental literature and is often required reading for those interested in environmental science and conservation. It's a testament to the power of scientific literature to bring attention to critical environmental issues and drive change.
 <param ve-iframe src="https://archive.org/details/monsanto-magazine-1962-the-desolate-year/mode/2up?view=theater">
 
 ### Insect Repellent Ads, Mortein, 1949
+How did 20th century advertisements for insect repellents consitute the pest? Mortein is a well-known brand of household insecticides and pest control products. The brand is owned by Reckitt Benckiser, a British multinational consumer goods company. Mortein products are designed to help people combat various pests, primarily insects, including mosquitoes, flies, cockroaches, ants, and other common household pests. Here are some key points about Mortein:
 
+History: Mortein was originally an Australian brand, founded by J. Hagemann in 1878. The brand's name is derived from a combination of the French word "mort" (meaning "dead") and "Einstein," referencing the scientist Albert Einstein. In 1936, Mortein introduced its iconic slogan, "When you're dead, you're dead."
+
+Global Presence: Mortein products are available in various countries around the world. They are especially popular in regions where insect-borne diseases are a concern.
+
+Environmental Concerns: Like many companies in the pest control industry, Mortein has faced scrutiny and challenges related to the environmental impact of its products. There have been concerns about the use of certain chemicals in insecticides and their effects on the environment. In response to these concerns, Mortein, like other companies, has been working on developing more environmentally friendly and sustainable pest control solutions.
+
+Image: Mortein is known for its distinctive packaging and branding, often featuring the image of a dead insect, reinforcing its promise of effective pest control.
 <param ve-iframe src="https://ia802907.us.archive.org/5/items/1949-advertisement-for-mortein-plus-fly-spray/1949%20advertisement%20for%20Mortein%20Plus%20fly%20spray.jpg">
-<param ve-image
-       label="Inca Garcilaso de la Vega (1539-1616), 'Comentarios Reales de los Incas', 1609"
-       attribution="Biblioteca Nacional de España, Biblioteca Digital Hispánica"
-       license="public domain"
-       fit="contain"
-       url="El inca.jpg">
  
 As "El Inca" suggests, peanuts were more than just an important food source, they were also a prestigious item with symbolic and religious importance and a connection to societal elites. The <span eid="Q208188">Moche culture</span> in northern Peru immortalised peanuts in metalwork and on ritual and funerary ceramics, and associated them with death, agricultural production and fertility, in part because of the peanut’s subterranean growth process.[^5] They were also used in competitive feasts and as a ceremonial offering. The high status of peanuts is perhaps best immortalised in an elaborate gold and silver necklace that was discovered in the Royal Tombs of Sipan in 1980 where the warrior-priest leaders of the Moche were buried.
 <param ve-image
